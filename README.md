@@ -1,2 +1,2 @@
-## NFT : Laravel
+## NFT Marketplace
 nft marketplace in Laravel
